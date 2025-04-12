@@ -1,4 +1,4 @@
-# smart-waste-prototype
+# smart-waste-management-system
 App prototype for Smart Waste Management
 
 # EcoNova – Smart Waste Management App Prototype
